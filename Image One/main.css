@@ -1,7 +1,16 @@
-.header { 
-  display: flex; 
+.header logo { 
+  background: #1f2937; 
+  font-family: 'Roboto', sans-serif; 
+  font-weight: 24px; 
+  font-color: #f9faf8; 
 } 
 
-.header div { 
+.header links div { 
   background: #1f2937; 
+  font-family: 'Roboto', sans-serif; 
+  font-weight: 18px; 
+  font-color: #e5e7eb; 
+  flex: 1 1 0%; 
+} 
+  
   
